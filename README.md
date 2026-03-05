@@ -1,2 +1,2 @@
-# Corals-Love2d-Libraries
+# Cloveb
 Will add documentation later :/
